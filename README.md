@@ -1,5 +1,4 @@
-# Hey demons. Its me. Ya girl.
-## @Azkyll - Aspiring backend/fullstack dev
+# @Azkyll - Aspiring backend/fullstack dev
 
 Hi! My name is Irina but you can call me Azie 🌸 I used to be a physics student, and now I'm trying to get full-time into my passion for programming.
 My main focus is realistic physics simulation (particles, gravity, thermodynamics -- if it can be coded, I **will** do it at some point), but I do play with other concepts, ideas or puzzleS.
@@ -10,7 +9,11 @@ I **really** would love to collaborate on simulation projects, anything with hea
 
 Don't hesitate to contact me here on GitHub for inquiries or collaboration prospects. I will _at some point_ put my other socials on this page, but I don't feel like it right now.
 
-Thanks for reading xoxoxo
+Currently working on : 
+ - Graphical calculator using SFML
+   
+
+Thanks for reading!~
 
 
 <!---
